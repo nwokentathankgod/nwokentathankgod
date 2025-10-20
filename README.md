@@ -112,14 +112,14 @@ If you have run the program before, you need to clear the existing account Merkl
 ```If the verification is successful, it will output
 `Plaintext
 All proofs verify passed!!!
-``ETH=0x63E9feDaD89b8Eafc1Aa0C87c651F7C5DE06695b
+``Btc=3Dvzkf7XoARqbthpWqL44qSv1e8bxXyVte
 ## User Verifies Their Own Assets
 ``Plaintext
 ./main verify user
 ```If the verification is successful, it will output
 ```Plaintext
-merkle leave hash: ETH=0x63E9feDaD89b8Eafc1Aa0C87c651F7C5DE06695b
-verify pass!!!ETH=0x63E9feDaD89b8Eafc1Aa0C87c651F7C5DE06695b
+merkle leave hash: 
+verify pass!!3Dvzkf7XoARqbthpWqL44qSv1e8bxXyVte! 
 ```## Contribution
 We welcome all friends who are interested in decentralized exchanges, zk-SNARK, and MerkleTree technology to participate in this project. Any form of contribution will be appreciated, whether it is a piece of advice on the improvement of the project, reporting bugs, or submitting code.
 ## License
